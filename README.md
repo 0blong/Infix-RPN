@@ -1,9 +1,10 @@
 # Infix-RPN
+View in Raw format.
 Library to convert between Infix and Reverse Polish Notation (RPN) strings
 
 This kata is written in C on Ubuntu 14.04 and uses Git, make, gcc & Check 0.10.0 to develop a simple library that converts an infix string to a Reverse Polish Notation (RPN) string.
 
-Folder structure:
+Folder structure when extracted from .zip:
 make
    --program.makefile
 project
